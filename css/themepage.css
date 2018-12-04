@@ -1,0 +1,63 @@
+.design
+{
+	border-color: #2F2FA2;
+	text-transform: uppercase;
+	font-weight: 700;
+
+}
+.design-inside
+{
+	background-color: #00A652;
+	color: #f3f3f3;
+	min-width: 100px;
+	display: inline-block;
+	padding: 5px 20px;
+	font-weight:600; 
+	text-transform: uppercase;
+}
+
+.justifysm
+{
+	text-align: justify;
+	text-justify:inter-word;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px white; 
+    border-radius: 10px;
+    background-color: #f3f3f3;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #283e4a; 
+    border-radius: 10px;
+}
+
+
+/* colorpatterns
+green1:#4CBB17;
+green2:#0B6623;
+green3:#00A652;
+blue1:#2F2FA2;
+blue2:#242582;
+blue3:#5d8ffc;
+linkblue:rgba(152,216,244,.25);
+black1:#000F17;
+black2:#494949;
+black3:#2F2B28;
+black4:#2B2724;
+*/
+/*Special green:#12bbad*/
+/*transform: scaleX(0);*/
+/*color:#f3f3f3;
+background-color:#2F2FA2 ;
+border-radius: 5px;
+text-decoration: none;*/
+/*padding: 0px 10px;#4CBB17
+background-color: #12bbad;*/
